@@ -10,4 +10,4 @@ the training set has 3469 samples while the validation set has 600 samples.
 The proposed model to solve the task follows the commonly used Encoder - Decoder
 pattern and in particular uses a U-Net style architecture.
 
-All the details about the model created and the results obtained are included in the [Deep_Learning_Challenge_Final_Report_public.pdf](final report).
+All the details about the model created and the results obtained are included in the final report [[Deep_Learning_Challenge_Final_Report.pdf](./Deep_Learning_Challenge_Final_Report_public.pdf)].
